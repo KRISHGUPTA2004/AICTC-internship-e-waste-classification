@@ -1,0 +1,1 @@
+# AICTC-internship-e-waste-classification
