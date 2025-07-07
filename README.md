@@ -13,7 +13,7 @@ A Gradio interface to classify images of electronic waste items using a deep lea
 
 ## 🚀 Try it Online
 
-Once deployed via [[Gradio Spaces](https://huggingface.co/spaces)] https://9a82ed0fb8259ce107.gradio.live, you can use this app online by uploading an image.
+Once deployed via [[Gradio Spaces](https://huggingface.co/spaces)] https://huggingface.co/spaces/krishgupta06/AICTC , you can use this app online by uploading an image.
 This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
 
 
